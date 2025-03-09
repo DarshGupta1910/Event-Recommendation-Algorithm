@@ -81,3 +81,7 @@ Top recommendations:
   3. Event 718 (Categories: business, politics, dance)
   4. Event 610 (Categories: health, travel)
   5. Event 721 (Categories: education, fashion, finance)
+```
+
+## Time Complexity
+The time complexity of the `getRecommendedEvents` method is **O(N log N)**, where **N** is the number of events.
